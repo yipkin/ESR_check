@@ -1,0 +1,1 @@
+/home/kinyip/bin/check_esr.csh
